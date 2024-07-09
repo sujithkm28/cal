@@ -1,0 +1,43 @@
+body{
+    background-image: url('background1.webp');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: white;
+}
+
+select:hover{
+    background-color: rgba(213, 244, 188, 0.053);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+}
+button{
+    background-color: rgb(234, 17, 187);
+}
+button:hover{
+    background-color: rgba(150, 201, 150, 0.501);
+}
+
+table{
+    font-family: Arial, sans-serif;
+    background-color: #71776f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+}
+input{
+    text-shadow: green;
+}
+
+h2{
+    background-color: #71776f;
+    height: 45px;
+    
+}
